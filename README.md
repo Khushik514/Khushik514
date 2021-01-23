@@ -1,4 +1,4 @@
-![Banner]./profile.png
+![Banner](./profile.png)
 # A dumb-headed chatterbox trying to learn and achieve!
 I am a self-taught programmer doing anything and everything possible.
 
